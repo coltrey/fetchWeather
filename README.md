@@ -7,3 +7,5 @@ No config, edit the source for station.
   Lines 13, 14 set the range
 
 dateRange is a generally useful function
+
+R can be used to combine and plot the fetched data
